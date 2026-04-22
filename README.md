@@ -23,7 +23,7 @@
 ## 📸 Screenshots
 
 ### 📊 Combat Analytics
-| Main DPS Meter | Detailed Skill Analysis |
+| Main DPS Meter | Detailed Skill Breakdown |
 |:---:|:---:|
 | ![Main App](Screenshots/BPSRAssist-DPSMeter.png) | ![Skill Breakdown](Screenshots/BPSRAssist-SkillBreakdown.png) |
 
@@ -32,15 +32,20 @@
 |:---:|:---:|
 | ![Module Optimizer](Screenshots/BPSRAssist-ModuleOptimizer.png) | ![Spawn Tracker](Screenshots/BPSRAssist-SpawnTracker.png) |
 
+### 🛠️ Settings
+| Game Overlay Settings | Main Settings |
+|:---:|:---:|
+| ![Game_Overlay_Settings](Screenshots/BPSRAssist-GameOverlaySettings.png) | ![Settings](Screenshots/BPSRAssist-Settings.png) |
+
 ### 🎮 In-Game Widgets
 | DPS Meter Widget | Skill Log Widget | Spawn Tracker Widget | Performance Widget |
 |:---:|:---:|:---:|:---:|
-| ![Overlay](Screenshots/Overlay/DpsMeterWidget.jpg) | ![Skill Log](Screenshots/Overlay/SkillLogWidget.jpg) | ![Performance](Screenshots/Overlay/SpawnTrackerWidget.jpg) | | ![Performance](Screenshots/Overlay/PerformanceWidget.jpg) |
+| ![Overlay](Screenshots/Overlay/DpsMeterWidget.jpg) | ![Skill Log](Screenshots/Overlay/SkillLogWidget.jpg) | ![Performance](Screenshots/Overlay/SpawnTrackerWidget.jpg) | ![Performance](Screenshots/Overlay/PerformanceWidget.jpg) |
 
-### ⚙️ Customization & Toolbar
-| Main Toolbar | Overlay Settings | Performance Config |
+### ⚙️ Control Bar & Customization
+| Overlay Toolbar | DPS Meter Settings | Performance Settings |
 |:---:|:---:|:---:|
-| ![Toolbar](Screenshots/BPSRAssist-Toolbar.png) | ![Overlay Settings](Screenshots/BPSRAssist-OverlaySettings.png) | ![Performance Settings](Screenshots/BPSRAssist-PerformanceSettings.png) |
+| ![Toolbar](Screenshots/Overlay/OverlayControlBar.jpg) | ![DpsMeterWidget Settings](Screenshots/Overlay/DpsMeterWidgetSettings.jpg) | ![Performance Settings](Screenshots/Overlay/PerformanceWidgetSettings.jpg) |
 
 ---
 
