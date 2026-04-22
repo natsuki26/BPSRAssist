@@ -20,6 +20,21 @@
 
 ---
 
+## 🚀 Quick Start
+
+### Requirements
+- **[Npcap](https://npcap.com/#download)** – Required for packet capture.  
+  *(Crucial: Install with "WinPcap API-compatible Mode" enabled)*
+- **[.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)**
+- Windows 10 or later
+
+### Installation
+1. Download the latest installer from the [Releases](../../releases) page.
+2. Run the installer and follow the prompts.
+3. Launch BPSRAssist. (Run as Administrator if data capture doesn't start automatically).
+
+---
+
 ## 📸 Screenshots
 
 ### 📊 Combat Analytics
@@ -43,24 +58,9 @@
 | ![Overlay](Screenshots/Overlay/DpsMeterWidget.jpg) | ![Skill Log](Screenshots/Overlay/SkillLogWidget.jpg) | ![Performance](Screenshots/Overlay/SpawnTrackerWidget.jpg) | ![Performance](Screenshots/Overlay/PerformanceWidget.jpg) |
 
 ### ⚙️ Control Bar & Customization
-| Overlay Toolbar | DPS Meter Settings | Performance Settings |
+| Control Bar | DPS Meter Settings | Performance Settings |
 |:---:|:---:|:---:|
-| ![Toolbar](Screenshots/Overlay/OverlayControlBar.jpg) | ![DpsMeterWidget Settings](Screenshots/Overlay/DpsMeterWidgetSettings.jpg) | ![Performance Settings](Screenshots/Overlay/PerformanceWidgetSettings.jpg) |
-
----
-
-## 🚀 Quick Start
-
-### Requirements
-- **[Npcap](https://npcap.com/#download)** – Required for packet capture.  
-  *(Crucial: Install with "WinPcap API-compatible Mode" enabled)*
-- **[.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)**
-- Windows 10 or later
-
-### Installation
-1. Download the latest installer from the [Releases](../../releases) page.
-2. Run the installer and follow the prompts.
-3. Launch BPSRAssist. (Run as Administrator if data capture doesn't start automatically).
+| ![Control_Bar](Screenshots/Overlay/OverlayControlBar.jpg) | ![DpsMeterWidget Settings](Screenshots/Overlay/DpsMeterWidgetSettings.jpg) | ![Performance Settings](Screenshots/Overlay/PerformanceWidgetSettings.jpg) |
 
 ---
 
