@@ -12,7 +12,7 @@
 ## 🌟 Key Features
 
 - **⚔️ DPS Meter:** Real-time metrics for DPS, Healer, and Tank.
-- **📊 Deep Skill Breakdown:** In-depth logs with performance graphs.
+- **📊 Skill Breakdown:** In-depth logs with performance graphs.
 - **🤖 Module Optimizer:** Calculates optimal module combinations for your setup.
 - **🐺 Spawn Tracker:** Real-time boss and magical creature timers with line tracking.
 - **📈 Performance Monitor:** Live FPS and hardware usage monitoring.
